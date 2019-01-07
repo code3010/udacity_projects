@@ -1,4 +1,4 @@
-# Multifactor_Model
+# Multifactor Model
 This project was undertaken as a part of AI for Trading Nanodegree Term 1 from Udacity.
 
 The goal of this project was to build a statistical risk model using PCA and to use this model to build a portfolio along with 5 alpha factors. 
