@@ -6,3 +6,5 @@ then test to see if it has the potential to be profitable using a Histogram and 
 The dataset, used was the end of day from Quotemedia. 
 
 Used python's numpy and pandas packages to achieve the objective.
+
+Project file is **project_2_starter.ipynb**
