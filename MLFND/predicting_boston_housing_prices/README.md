@@ -5,3 +5,5 @@ The goal of this project was to evaluate the performance and predictive power of
 
 Used NumPy, Pandas and Scikit-Learn to build a model for predicting the value of a given house in the Boston real estate market 
 using various statistical analysis tools.
+
+Project file is **Predicting_Boston_Housing_Prices.ipynb**
