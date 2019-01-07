@@ -5,4 +5,6 @@ The goal of this project was to make use of Python to explore data related to bi
 in the United States. Performing data wrangling to unify the format of data from the three systems and write code to 
 compute descriptive statistics and visualize the data.
 
-Used python's pandas and matplotlib packages to achieve the goal
+Used python's pandas and matplotlib packages to achieve the goal.
+
+Project file is **Bike_Share_Analysis_2.ipynb**
