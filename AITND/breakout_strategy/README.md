@@ -1,4 +1,4 @@
-# Breakout_Strategy
+# Breakout Strategy
 This project was undertaken as a part of AI for Trading Nanodegree Term 1 from Udacity.
 
 The goal of this project was to implement the breakout strategy,find and remove any outliers,
