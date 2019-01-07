@@ -7,3 +7,5 @@ At the end of the project, the portfolio was to be optimized using the risk mode
 The dataset used was the end of day from Quotemedia and sector data from Sharadar.
 
 Used python's convex optimization (cvxpy), zipline, numpy and pandas packages to achieve the goal.
+
+Project file is **project_4_starter.ipynb**
