@@ -9,3 +9,5 @@ This metric will be used to find the optimal rebalancing Frequency.
 The dataset used was the end of day from Quotemedia.
 
 Used python's convex optimization (cvxpy), numpy and pandas packages to achieve the goal.
+
+Project file is **project_3_starter.ipynb**
