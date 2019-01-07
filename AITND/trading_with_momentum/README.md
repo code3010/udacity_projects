@@ -5,3 +5,5 @@ The goal of this project was to implement momentum-trading strategies and perfor
 to check if they have the potential to be profitable.
 
 Used python's numpy and pandas packages to achieve the objective.
+
+Project file is **project_1_starter.ipynb**
