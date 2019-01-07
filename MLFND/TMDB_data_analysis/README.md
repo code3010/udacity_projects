@@ -1,2 +1,7 @@
-# TMDB_data_analysis
-This is the first project in Udacity's Machine Learning Nanodegree program. In this project a question is posed about a dataset, then Pandas is used to answer that question based on the data and created a report to share the results.
+# TMDB Data Analysis
+This project was undertaken as a part of Machine Learning Foundation Nanodegree from Udacity.
+
+The goal of this project was to do a single and multi variable data analysis on the TMDB movie dataset 
+to find the answer of the posed questions on the dataset.
+
+Used NumPy, Pandas to find the answer of the posed questions and Seaborn, Matplotlib for visualisation.
